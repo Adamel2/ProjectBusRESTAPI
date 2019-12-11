@@ -3,7 +3,8 @@
 ## Run Project
 ```
 
-* you need JDBC data for run the algorithm - Example you can see in transferData  Repository Excel File 
+* you need JDBC data for run the algorithm -
+Example you can see in transferData  Repository Excel File 
 can run the project in two way :
 first:
 1) update your database detiles in java class
